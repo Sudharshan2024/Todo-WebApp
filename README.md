@@ -5,7 +5,14 @@ A simple and modern Todo App built using HTML, CSS, and JavaScript. This applica
 
 - [Features](#Features)
 - [Technologies Used](#TechnologiesUsed)
-- []()
+- [How to Use](#HowtoUse)
+- [Data Persistence](#DataPersistence)
+- [Due Date & Overdue Tasks](#DueDate&OverdueTasks)
+- [Task Statistics](#TaskStatistics)
+- [Responsive Design](#ResponsiveDesign)
+- [Skills Demonstrated](#SkillsDemonstrated)
+- [License](#License)
+- [Project Highlights](#Project Highlights)
 
 ## Live Demo
 ![](https://todo-app-webpage.netlify.app/)
@@ -42,9 +49,9 @@ A simple and modern Todo App built using HTML, CSS, and JavaScript. This applica
 
 ## How to Use
 ### Add a Task
-- Enter your task in the input field.
-- Select a due date if required.
-- Click the ADD button.
+1) Enter your task in the input field.
+2) Select a due date if required.
+3) Click the ADD button.
 4) The task will be displayed in the task list.
 ### Complete a Task
 - Click the checkbox next to a task to mark it as completed.
@@ -74,27 +81,45 @@ A simple and modern Todo App built using HTML, CSS, and JavaScript. This applica
     - Light Mode
 - Your selected theme will be saved in the browser.
 
-### Data Persistence
-
+## Data Persistence
 - This application uses the browser's LocalStorage API to save todo data.
 - Tasks are stored locally in the browser, so they remain available even after refreshing or reopening the page on the same browser and device.
 - The application also stores the user's selected theme preference in localStorage.
     - Note: Since the application uses browser local storage, tasks are not synchronized between different browsers or devices.
 
-### Due Date & Overdue Tasks
+## Due Date & Overdue Tasks
 - Each task can have an optional due date.
 - If a task has a due date that has already passed and the task is not completed, it is automatically highlighted as overdue.
 
-###Task Statistics
+## Task Statistics
 - The application dynamically displays:
 - Total: 5 | Completed: 2 | Pending: 3
 
 - The statistics are automatically updated when tasks are added, completed, or deleted.
 
-##Responsive Design
+## Responsive Design
 - The application is designed to work on different screen sizes.
 - On smaller devices:
     - The Add button moves below the input field.
     - Search and filter controls are displayed vertically.
     - The heading size adjusts automatically.
     - The layout becomes mobile-friendly.
+
+## Skills Demonstrated
+- HTML5
+- CSS3
+- JavaScript
+- DOM Manipulation
+- Event Handling
+- LocalStorage
+- Responsive Web Design
+- CRUD Operations
+- Search and Filtering
+- Dynamic UI Updates
+
+## License
+- This project is created for learning and portfolio purposes. You are free to explore and modify the source code for educational purposes.
+
+
+## Project Highlights
+    -This project demonstrates practical frontend development concepts such as **DOM manipulation, event listeners, form handling, CRUD operations, localStorage, search and filtering, responsive CSS, theme switching, and dynamic UI rendering**.
