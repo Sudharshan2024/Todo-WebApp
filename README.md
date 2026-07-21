@@ -4,6 +4,7 @@ A simple and modern Todo App built using HTML, CSS, and JavaScript. This applica
 ## Table of Contents
 
 - [Features](#Features)
+- [Live Demo](#Live Demo)
 - [Technologies Used](#TechnologiesUsed)
 - [How to Use](#HowtoUse)
 - [Data Persistence](#DataPersistence)
