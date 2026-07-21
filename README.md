@@ -12,7 +12,7 @@ A simple and modern Todo App built using HTML, CSS, and JavaScript. This applica
 - [Responsive Design](#ResponsiveDesign)
 - [Skills Demonstrated](#SkillsDemonstrated)
 - [License](#License)
-- [Project Highlights](#Project Highlights)
+- [Project Highlights](#ProjectHighlights)
 
 ## Live Demo
 ![](https://todo-app-webpage.netlify.app/)
