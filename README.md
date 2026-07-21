@@ -4,15 +4,15 @@ A simple and modern Todo App built using HTML, CSS, and JavaScript. This applica
 ## Table of Contents
 
 - [Features](#Features)
-- [Technologies Used](#TechnologiesUsed)
-- [How-to-Use](#HowtoUse)
-- [Data-Persistence](#DataPersistence)
-- [Due-Date-&-Overdue Tasks](#DueDate&OverdueTasks)
-- [Task-Statistics](#TaskStatistics)
-- [Responsive-Design](#ResponsiveDesign)
-- [Skills-Demonstrated](#SkillsDemonstrated)
+- [TechnologiesUsed](#TechnologiesUsed)
+- [HowtoUse](#HowtoUse)
+- [DataPersistence](#DataPersistence)
+- [DueDate&OverdueTasks](#DueDate&OverdueTasks)
+- [TaskStatistics](#TaskStatistics)
+- [ResponsiveDesign](#ResponsiveDesign)
+- [SkillsDemonstrated](#SkillsDemonstrated)
 - [License](#License)
-- [Project-Highlights](#ProjectHighlights)
+- [ProjectHighlights](#ProjectHighlights)
 
 ## Live Demo
 **Live Demo:**[https://todo-app-webpage.netlify.app/]
