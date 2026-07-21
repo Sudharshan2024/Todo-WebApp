@@ -8,7 +8,7 @@ A simple and modern Todo App built using HTML, CSS, and JavaScript. This applica
 - [Technologies-Used](#Technologies-Used)
 - [How-to-Use](#How-to-Use)
 - [Data-Persistence](#Data-Persistence)
-- [DueDate-&-Overdue-Tasks](#DueDate-&-Overdue-Tasks)
+- [Due-Date-&-Overdue-Tasks](#Due-Date-&-Overdue-Tasks)
 - [Task-Statistics](#Task-Statistics)
 - [Responsive-Design](#Responsive-Design)
 - [Skills-Demonstrated](#Skills-Demonstrated)
@@ -41,14 +41,14 @@ A simple and modern Todo App built using HTML, CSS, and JavaScript. This applica
 - Responsive design for mobile devices
 - Empty state message when there are no tasks
 
-## Technologies Used
+## Technologies-Used
 - HTML5 – Structure of the application
 - CSS3 – Styling, responsive design, and theme management
 - JavaScript (ES6) – Application logic and DOM manipulation
 - LocalStorage API – Persistent storage of tasks and theme preferences
 - SVG – Icons for task completion and deletion
 
-## How to Use
+## How-to-Use
 ### Add a Task
 1) Enter your task in the input field.
 2) Select a due date if required.
@@ -82,23 +82,23 @@ A simple and modern Todo App built using HTML, CSS, and JavaScript. This applica
     - Light Mode
 - Your selected theme will be saved in the browser.
 
-## Data Persistence
+## Data-Persistence
 - This application uses the browser's LocalStorage API to save todo data.
 - Tasks are stored locally in the browser, so they remain available even after refreshing or reopening the page on the same browser and device.
 - The application also stores the user's selected theme preference in localStorage.
     - Note: Since the application uses browser local storage, tasks are not synchronized between different browsers or devices.
 
-## Due Date & Overdue Tasks
+## Due-Date-&-Overdue-Tasks
 - Each task can have an optional due date.
 - If a task has a due date that has already passed and the task is not completed, it is automatically highlighted as overdue.
 
-## Task Statistics
+## Task-Statistics
 - The application dynamically displays:
 - Total: 5 | Completed: 2 | Pending: 3
 
 - The statistics are automatically updated when tasks are added, completed, or deleted.
 
-## Responsive Design
+## Responsive-Design
 - The application is designed to work on different screen sizes.
 - On smaller devices:
     - The Add button moves below the input field.
@@ -106,7 +106,7 @@ A simple and modern Todo App built using HTML, CSS, and JavaScript. This applica
     - The heading size adjusts automatically.
     - The layout becomes mobile-friendly.
 
-## Skills Demonstrated
+## Skills-Demonstrated
 - HTML5
 - CSS3
 - JavaScript
