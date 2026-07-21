@@ -13,7 +13,7 @@ A simple and modern Todo App built using HTML, CSS, and JavaScript. This applica
 - [Responsive Design](#ResponsiveDesign)
 - [Skills Demonstrated](#SkillsDemonstrated)
 - [License](#License)
-- [Project Highlights](#ProjectHighlights)
+- [Project-Highlights](#Project-Highlights)
 
 ## Live-Demo
 **Live Demo:**[https://todo-app-webpage.netlify.app/]
@@ -122,5 +122,5 @@ A simple and modern Todo App built using HTML, CSS, and JavaScript. This applica
 - This project is created for learning and portfolio purposes. You are free to explore and modify the source code for educational purposes.
 
 
-## Project Highlights
+## Project-Highlights
     This project demonstrates practical frontend development concepts such as **DOM manipulation, event listeners, form handling, CRUD operations, localStorage, search and filtering, responsive CSS, theme switching, and dynamic UI rendering**.
