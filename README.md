@@ -122,4 +122,4 @@ A simple and modern Todo App built using HTML, CSS, and JavaScript. This applica
 
 
 ## Project Highlights
-    -This project demonstrates practical frontend development concepts such as **DOM manipulation, event listeners, form handling, CRUD operations, localStorage, search and filtering, responsive CSS, theme switching, and dynamic UI rendering**.
+    This project demonstrates practical frontend development concepts such as **DOM manipulation, event listeners, form handling, CRUD operations, localStorage, search and filtering, responsive CSS, theme switching, and dynamic UI rendering**.
