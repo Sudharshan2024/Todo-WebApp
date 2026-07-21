@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo App</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+</head>
+<body>
+    <button id="theme-toggle">
+        🌙 Dark Mode
+    </button>
+    <h1>Todo App</h1>
+    <div class="wrapper">
+        <form>
+            <input 
+                type ="text" 
+                id="todo-input" 
+                placeholder="write and enter to add">
+            <input
+                type="date"
+                id="due-date">
+            <button id="add-button">ADD</button>
+        </form>
+        <div class="controls">
+            <input
+                type="text"
+                id="search-input"
+                placeholder="🔍 Search task...">
+            <select id="filter-select">
+                <option value="all">All Tasks</option>
+                <option value="completed">Completed</option>
+                <option value="pending">Pending</option>
+            </select>
+        </div>
+        <div id="task-counter">
+            Total: 0 | Completed: 0 | Pending: 0
+        </div>
+        <div id="empty-state" class="hidden">
+    <div class="empty-icon">🎉</div>
+    <h3>No tasks yet</h3>
+    <p>Add your first task to get started.</p>
+</div>
+        <ul id="todo-list">
+        </ul>
+    </div>
+</body>
+</html>
