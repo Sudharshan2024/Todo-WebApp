@@ -15,7 +15,7 @@ A simple and modern Todo App built using HTML, CSS, and JavaScript. This applica
 - [Project Highlights](#ProjectHighlights)
 
 ## Live Demo
-![](https://todo-app-webpage.netlify.app/)
+**Live Demo:**[https://todo-app-webpage.netlify.app/]
 
 ## Features
 - Add new tasks
